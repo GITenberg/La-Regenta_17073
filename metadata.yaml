@@ -15,6 +15,8 @@ creator:
     - http://es.wikipedia.org/wiki/Leopoldo_Alas_%28%22Clar%C3%ADn%22%29
     - http://en.wikipedia.org/wiki/Leopoldo_Alas_y_Ure%C3%B1a
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17073#La-Regenta
 gutenberg_issued: '2005-11-16'
 gutenberg_type: Text
 identifiers:
